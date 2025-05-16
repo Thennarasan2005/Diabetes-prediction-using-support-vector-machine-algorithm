@@ -1,0 +1,1 @@
+# Diabetes-prediction-using-support-vector-machine-algorithm
